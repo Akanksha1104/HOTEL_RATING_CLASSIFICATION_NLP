@@ -1,7 +1,7 @@
 # HOTEL_RATING_CLASSIFICATION_NLP
 Business Objective: **HOTEL RATING CLASSIFICATION**
 <center>
-    <img src="https://media1.giphy.com/media/3o85xLCFHDghSNviO4/giphy.gif?cid=ecf05e47osv1he0fgurkqt3pi24tei8oxalc2w4zgwzxu0am&rid=giphy.gif&ct=g" width="200"  align="center"/>
+    <img src="https://media1.giphy.com/media/3o85xLCFHDghSNviO4/giphy.gif?cid=ecf05e47osv1he0fgurkqt3pi24tei8oxalc2w4zgwzxu0am&rid=giphy.gif&ct=g" width="200"  align="right"/>
 </center>
 
 
